@@ -3,5 +3,5 @@ tags={
 	"Character Focuses"
 }
 name="BCK - Alchemist"
-supported_version="1.16.*"
+supported_version="1.18.*"
 remote_file_id="3174420181"
